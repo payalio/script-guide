@@ -1,21 +1,29 @@
-Привет, это гайд как запустить полученные скрипты на юбу.
+Привет, это сборник инжекторов.
 
 
 
-Лучшие мобильные инжекторы которые я знаю:
+Лучшие мобильные инжекторы которые я знаю (они все бесплатные лол):
 
-Delta Executor - deltaexploits.gg
-CodeX - codexexecutor.net
-ArceusX - arceusx.net
+1. Delta Executor - deltaexploits.gg
+2. CodeX - codexexecutor.net
+3. ArceusX - arceusx.net
 
 ___________________________________________
 
-Лучшие пк инжекторы которые я знаю:
+Лучшие бесплатные пк инжекторы которые я знаю:
 
-Xeno Executor - https://xenoexecutor.com/xeno-executor-v1-1-0-latest-version/ (проверено мной, не работает на версии роблокса из Microsoft Store.)
-JJsploit - https://wearedevs.net/d/JJSploit (проверено мной, работает только на 32-битной версии Roblox.)
+1. Xeno Executor - https://xenoexecutor.com/xeno-executor-v1-1-0-latest-version/ (проверено мной, не работает на версии роблокса из Microsoft Store.)
+2. JJsploit - https://wearedevs.net/d/JJSploit (проверено мной, работает только на 32-битной версии Roblox.)
 
 ____________________________________________
+
+Лучшие платные пк инжекторы которые я знаю:
+
+1. OxygenU - https://oxygenu.xyz/
+2. Solara executor - https://github.com/dejon32simonisaev/Solara-V3
+3. Fluxus - https://rbxscript.net/fluxus-exploit
+____________________________________________
+
 
 гайд (мобильные executor-ы):
 1. после скачивания инжектора и захода в аккаунт, мы заходим в юбу.
